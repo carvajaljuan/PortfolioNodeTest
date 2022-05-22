@@ -21,6 +21,8 @@ Replacing its html response with a "res.render" type to call the handelbars temp
 To get twtter timeline info Twitter's API was implemented. To connect and request this data Axios library was used,  
 Created Axios functions are in the file called 'sendRedirect.js' inside server/utils and is called in the portfolio.controller file.
 
+Twitter Account URL (Extracted tweets) [Twitter](https://twitter.com/JuanPab03977482)
+
 In total, the realization of this entire project took me around 6 and a half hours, including configuration, programming, documenting and testing.
 
 ![image](/public/assets/img/getportfolio2.JPG)
