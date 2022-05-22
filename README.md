@@ -51,7 +51,7 @@ Rename the '.env.development' file to just '.env'
 
 Add the Bearer token of the development twitter account in the TWITTER_API variable in the .env
 
-Add your AWS credentials in the config.js file, I left my AWS credentials in case it is necessary.
+Add your AWS credentials in the config.js file.
 
 ### To Run
 
