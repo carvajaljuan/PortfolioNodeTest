@@ -13,13 +13,13 @@ finally the controller file calls services folder, here you can find all the dat
 
 To display Porfolio info, this project uses Handlebars, the views folder contains the handlebars' templates to show portfolio info and
 display a menu to edit this data. the templates were based on an example made with boostrap as the initial base, which can be found in the public/example path.
- however they were remade and adapted for handlebars by me.
+however they were remade and adapted for handlebars by me.
 
 Since handlebars uses a different syntax, the backend endpoints have been modified.
 Replacing its html response with a "res.render" type to call the handelbars templates.
 
 To get twtter timeline info Twitter's API was implemented. To connect and request this data Axios library was used,  
-this function is in the file called 'sendRedirect.js' inside utils and is called in the portfolio.controller file.
+Created Axios functions are in the file called 'sendRedirect.js' inside server/utils and is called in the portfolio.controller file.
 
 In total, the realization of this entire project took me around 6 and a half hours, including configuration, programming, documenting and testing.
 
@@ -30,7 +30,7 @@ In total, the realization of this entire project took me around 6 and a half hou
 
 Install nodejs
 
-Install [AWS CLI](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Tools.CLI.html#Tools.CLI.DownloadingAndRunning) and setup your AWS credentials, this allows to create tables and run dynamodb locally if it is needed. 
+Install [AWS CLI](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Tools.CLI.html#Tools.CLI.DownloadingAndRunning) and setup your AWS credentials, this allows to create tables and run dynamodb locally if it is needed.
 For this example Dynamodb was used online using AWS.
 
 If you want to run the db locally:
