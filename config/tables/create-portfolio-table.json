@@ -1,0 +1,61 @@
+{
+  "Item": {
+    "idportfolio": {
+      "N": "1"
+    },
+    "experience_summary": {
+      "S": "A little band called The Beatles. Also wrote some songs and Yoko personal assistant. :/"
+    },
+    "image_path": {
+      "S": ""
+    },
+    "email": {
+      "S": "JohnLemmon@beatle.uk"
+    },
+    "twitter_url": {
+      "S": "https://twitter.com/JuanPab03977482"
+    },
+    "lastname": {
+      "S": "Lennon"
+    },
+    "twitter_user": {
+      "S": ""
+    },
+    "user_id": {
+      "N": "0"
+    },
+    "twitter_user_id": {
+      "S": "1527316746214207488"
+    },
+    "instagram_url": {
+      "S": "https://www.instagram.com/juanpcarvajala"
+    },
+    "linkedin_url": {
+      "S": "https://www.linkedin.com/in/juan-pablo-carvajal-acosta-2669b41b5/"
+    },
+    "names": {
+      "S": "John"
+    },
+    "experience_sum": {
+      "S": "A little band called The Beatles. Also wrote some songs and Yoko personal assitant. :/"
+    },
+    "tittle": {
+      "S": "John Lennon"
+    },
+    "image_url": {
+      "S": "https://cdn.aarp.net/content/dam/aarp/entertainment/music/2020/12/1140x1569-john-lennon-portrait-esp.imgcache.rev.web.363.500.jpg"
+    },
+    "phone": {
+      "S": "12345617680"
+    },
+    "experience": {
+      "S": "57"
+    },
+    "curr_job": {
+      "S": "Singer/Guitarist"
+    },
+    "description": {
+      "S": "Born in Liverpool, Lennon (Me) became involved in the skiffle craze as a teenager. In 1956, he formed the Quarrymen, which evolved into the Beatles in 1960. Sometimes called \"the smart Beatle\".\r\nAs a performer, writer or co-writer, Lennon had 25 number-one singles in the Billboard Hot 100 chart. Double Fantasy, his best-selling album, won the 1981 Grammy Award for Album of the Year. In 1982, Lennon won the Brit Award for Outstanding Contribution to Music. In 2002, Lennon was voted eighth in a BBC history poll of the 100 Greatest Britons. Rolling Stone ranked him the fifth-greatest singer and thirty-eighth greatest artist of all time. He was inducted into the Songwriters Hall of Fame (in 1997) and the Rock and Roll Hall of Fame (twice, as a member of the Beatles in 1988 and as a solo artist in 1994). Here comes the sun tururu..."
+    }
+  }
+}
